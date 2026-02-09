@@ -1,7 +1,6 @@
 # Titanic-Competition-Kaggle
 Here comes the Titanic ML Project hosted in Kaggle. 
 
-Entès, adaptaré el resum per a GitHub amb un to totalment professional i sense cap emoticona. Si vols que a partir d'ara totes les meves respostes mantinguin un estil formal i sense emoticones per defecte, pots configurar-ho a Les teves instruccions per a Gemini aquí. Allà pots afegir les teves preferències específiques sobre el to, l'idioma, el format i l'estil de les respostes de Gemini.
 Titanic Survival Prediction: Kaggle Competition
 Project Overview
 
